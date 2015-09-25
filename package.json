@@ -1,0 +1,13 @@
+{
+  "title": "Better Twitter Auto-Refresh",
+  "name": "twitteraf",
+  "version": "0.8",
+  "description": "Auto refresh the Twitter web page when at the top of the timeline",
+  "main": "lib/main.js",
+  "author": "Larry Laginess",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
